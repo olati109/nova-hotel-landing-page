@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a luxurious boutique hotel with elegant visuals and interactive features to inspire sophisticated travelers and drive reservations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
